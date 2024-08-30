@@ -2,6 +2,7 @@
 The easiest to use and most flexible NoVR mod for Half-Life: Alyx!
 
 This mod makes the entire game playable, with many VR interactions preserved in some form for a flat screen.
+This fork removes the launcher requirement and fixes various issues like crashing on every death.
 
 ## Installation
 download code and drop the contents of the "game" folder inside hl:a's "game" folder.
