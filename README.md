@@ -13,6 +13,7 @@ Optional:
 -w 1920 -h 1080 (replace with your screen's resolution)
 
 ## Controls
+```python
 PRIMARY_ATTACK    = "MOUSE1"
 SECONDARY_ATTACK  = "MOUSE2"
 TERTIARY_ATTACK   = "MOUSE3"
@@ -40,10 +41,11 @@ ZOOM              = "Z"
 USE_HEALTHPEN     = "B"
 DROP_ITEM         = "X"
 UNEQUIP_WEARABLE  = "U"
+```
 
 ## Official Discord Server for Support
 https://discord.gg/AyfBeuZXsR
-
+(dont bother the official team with issues that arise from using my fork)
 ## Team Members
 - Team and Projects Led by GB_2
  
