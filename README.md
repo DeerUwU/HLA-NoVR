@@ -8,9 +8,9 @@ download code and drop the contents of the "game" folder inside hl:a's "game" fo
 start the included play.bat file or run the game through your steam library.
 
 ## Launch Options
--novr -vsync -console -vconsole -noversioninfo +vr_enable_fake_vr 1
+`-novr -vsync -console -vconsole -noversioninfo +vr_enable_fake_vr 1`
 Optional:
--w 1920 -h 1080 (replace with your screen's resolution)
+`-w 1920 -h 1080` (replace with your screen's resolution)
 
 ## Controls
 ```python
