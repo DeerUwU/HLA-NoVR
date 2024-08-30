@@ -4,10 +4,42 @@ The easiest to use and most flexible NoVR mod for Half-Life: Alyx!
 This mod makes the entire game playable, with many VR interactions preserved in some form for a flat screen.
 
 ## Installation
-download code and drop the contents of the "game" folder inside hl:a's "game" folder
+download code and drop the contents of the "game" folder inside hl:a's "game" folder.
+start the included play.bat file or run the game through your steam library.
+
+## Launch Options
+-novr -vsync -console -vconsole -noversioninfo +vr_enable_fake_vr 1
+Optional:
+-w 1920 -h 1080 (replace with your screen's resolution)
 
 ## Controls
-Check the ingame options menu or the [FAQ](https://docs.google.com/document/d/1mlDz24iE1r4Lf16y5N9I37ZIvm4V0ie2Sxg1GBlcs10) for details.
+PRIMARY_ATTACK    = "MOUSE1"
+SECONDARY_ATTACK  = "MOUSE2"
+TERTIARY_ATTACK   = "MOUSE3"
+GRENADE           = "G"
+RELOAD            = "R"
+QUICK_SWAP        = "Q"
+MOVE_FORWARD      = "W"
+MOVE_BACK         = "S"
+MOVE_LEFT         = "A"
+MOVE_RIGHT        = "D"
+JUMP              = "SPACE"
+CONSOLE           = "C"
+CROUCH            = "CTRL"
+SPRINT            = "SHIFT"
+INTERACT          = "E"
+FLASHLIGHT        = "F"
+COVER_MOUTH       = "H"
+QUICK_SAVE        = "F5"
+QUICK_LOAD        = "F9"
+MAIN_MENU         = "M"
+PAUSE             = "P"
+NOCLIP            = "N"
+VIEWM_INSPECT     = "T"
+ZOOM              = "Z"
+USE_HEALTHPEN     = "B"
+DROP_ITEM         = "X"
+UNEQUIP_WEARABLE  = "U"
 
 ## Official Discord Server for Support
 https://discord.gg/AyfBeuZXsR
