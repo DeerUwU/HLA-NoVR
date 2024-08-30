@@ -1,1 +1,1 @@
-SendToConsole("quit")
+SendToConsole("addon_play startup")
