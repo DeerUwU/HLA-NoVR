@@ -4,9 +4,7 @@ The easiest to use and most flexible NoVR mod for Half-Life: Alyx!
 This mod makes the entire game playable, with many VR interactions preserved in some form for a flat screen.
 
 ## Installation
-[Install the official launcher.](https://github.com/bfeber/HLA-NoVR-Launcher#installation-and-usage)
-
-If you use a Steam Deck/Linux, see the [FAQ](https://docs.google.com/document/d/1mlDz24iE1r4Lf16y5N9I37ZIvm4V0ie2Sxg1GBlcs10) for installation instructions.
+download code and drop the contents of the "game" folder inside hl:a's "game" folder
 
 ## Controls
 Check the ingame options menu or the [FAQ](https://docs.google.com/document/d/1mlDz24iE1r4Lf16y5N9I37ZIvm4V0ie2Sxg1GBlcs10) for details.
