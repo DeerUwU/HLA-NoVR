@@ -46,7 +46,7 @@ UNEQUIP_WEARABLE  = "U"
 
 ## Official Discord Server for Support
 https://discord.gg/AyfBeuZXsR
-(dont bother the official team with issues that arise from using my fork)
+(dont bother the official team with issues that arise from using my fork (unless the same issues are present in the original repo))
 ## Team Members
 - Team and Projects Led by GB_2
  
